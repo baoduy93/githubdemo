@@ -6,5 +6,6 @@ namespace githubdemo
 {
     class Class1
     {
+        // conflict
     }
 }
